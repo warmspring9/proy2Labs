@@ -1,0 +1,13 @@
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\bin\Debug\latticework.cs.dll
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\bin\Debug\Lw.BusinessLogic.EF.EF5.Net45.dll
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\bin\Debug\Lw.BusinessLogic.Net45.dll
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\bin\Debug\Lw.ComponentModel.DataAnnotations.Net45.dll
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\bin\Debug\Lw.Core.Net451.dll
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\bin\Debug\Lw.DirectoryServices.Net45.dll
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\bin\Debug\Lw.EntityFramework.EF5.Net45.dll
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\obj\Debug\Exceptions.csproj.CopyComplete
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Exceptions\obj\Debug\Exceptions.pdb
