@@ -1,4 +1,0 @@
-C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\WindowsFormsApp1\bin\Debug\netcoreapp3.0\WindowsFormsApp1.exe
-C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\WindowsFormsApp1\obj\Debug\netcoreapp3.0\WindowsFormsApp1.csprojAssemblyReference.cache
-C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\WindowsFormsApp1\obj\Debug\netcoreapp3.0\WindowsFormsApp1.AssemblyInfoInputs.cache
-C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\WindowsFormsApp1\obj\Debug\netcoreapp3.0\WindowsFormsApp1.AssemblyInfo.cs

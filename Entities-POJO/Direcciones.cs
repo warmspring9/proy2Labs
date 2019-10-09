@@ -30,5 +30,8 @@ namespace Entities_POJO
         {
             this.Provincia = Provincia;
         }
+        public Direcciones()
+        {
+        }
     }
 }

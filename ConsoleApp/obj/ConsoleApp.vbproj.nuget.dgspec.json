@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\ConsoleApp\\ConsoleApp.vbproj": {}
+    "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\ConsoleApp\\ConsoleApp.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\ConsoleApp\\ConsoleApp.vbproj": {
+    "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\ConsoleApp\\ConsoleApp.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\ConsoleApp\\ConsoleApp.vbproj",
+        "projectUniqueName": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\ConsoleApp\\ConsoleApp.vbproj",
         "projectName": "ConsoleApp",
-        "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\ConsoleApp\\ConsoleApp.vbproj",
+        "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\ConsoleApp\\ConsoleApp.vbproj",
         "packagesPath": "C:\\Users\\chino\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,11 +30,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\DataAcess\\DataAcess.csproj": {
-                "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\DataAcess\\DataAcess.csproj"
+              "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\DataAcess\\DataAcess.csproj": {
+                "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\DataAcess\\DataAcess.csproj"
               },
-              "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Testing\\Testing.csproj": {
-                "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Testing\\Testing.csproj"
+              "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Testing\\Testing.csproj": {
+                "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Testing\\Testing.csproj"
               }
             }
           }
@@ -75,17 +75,17 @@
         }
       }
     },
-    "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\DataAcess\\DataAcess.csproj": {
+    "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\DataAcess\\DataAcess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\DataAcess\\DataAcess.csproj",
+        "projectUniqueName": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\DataAcess\\DataAcess.csproj",
         "projectName": "DataAcess",
-        "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\DataAcess\\DataAcess.csproj",
+        "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\DataAcess\\DataAcess.csproj",
         "frameworks": {
           "net461": {
             "projectReferences": {
-              "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Entities-POJO\\Entities-POJO.csproj": {
-                "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Entities-POJO\\Entities-POJO.csproj"
+              "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Entities-POJO\\Entities-POJO.csproj": {
+                "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Entities-POJO\\Entities-POJO.csproj"
               }
             }
           }
@@ -95,31 +95,31 @@
         "net461": {}
       }
     },
-    "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Entities-POJO\\Entities-POJO.csproj": {
+    "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Entities-POJO\\Entities-POJO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Entities-POJO\\Entities-POJO.csproj",
+        "projectUniqueName": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Entities-POJO\\Entities-POJO.csproj",
         "projectName": "Entities-POJO",
-        "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Entities-POJO\\Entities-POJO.csproj"
+        "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Entities-POJO\\Entities-POJO.csproj"
       },
       "frameworks": {
         "net461": {}
       }
     },
-    "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Testing\\Testing.csproj": {
+    "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Testing\\Testing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Testing\\Testing.csproj",
+        "projectUniqueName": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Testing\\Testing.csproj",
         "projectName": "Testing",
-        "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Testing\\Testing.csproj",
+        "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Testing\\Testing.csproj",
         "frameworks": {
           "net461": {
             "projectReferences": {
-              "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\DataAcess\\DataAcess.csproj": {
-                "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\DataAcess\\DataAcess.csproj"
+              "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\DataAcess\\DataAcess.csproj": {
+                "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\DataAcess\\DataAcess.csproj"
               },
-              "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Entities-POJO\\Entities-POJO.csproj": {
-                "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Entities-POJO\\Entities-POJO.csproj"
+              "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Entities-POJO\\Entities-POJO.csproj": {
+                "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Entities-POJO\\Entities-POJO.csproj"
               }
             }
           }

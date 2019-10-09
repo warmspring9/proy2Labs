@@ -1,4 +1,0 @@
-C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\gui\bin\Debug\netcoreapp3.0\gui.exe
-C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\gui\obj\Debug\netcoreapp3.0\gui.csprojAssemblyReference.cache
-C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\gui\obj\Debug\netcoreapp3.0\gui.AssemblyInfoInputs.cache
-C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\gui\obj\Debug\netcoreapp3.0\gui.AssemblyInfo.cs

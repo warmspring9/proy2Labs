@@ -904,11 +904,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\ConsoleApp\\ConsoleApp.vbproj",
+      "projectUniqueName": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\ConsoleApp\\ConsoleApp.vbproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\ConsoleApp\\ConsoleApp.vbproj",
+      "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\ConsoleApp\\ConsoleApp.vbproj",
       "packagesPath": "C:\\Users\\chino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -927,11 +927,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\DataAcess\\DataAcess.csproj": {
-              "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\DataAcess\\DataAcess.csproj"
+            "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\DataAcess\\DataAcess.csproj": {
+              "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\DataAcess\\DataAcess.csproj"
             },
-            "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Testing\\Testing.csproj": {
-              "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\ejemploLab2\\cenfo_proyecto_2_2019\\Capa acceso datos\\Testing\\Testing.csproj"
+            "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Testing\\Testing.csproj": {
+              "projectPath": "C:\\Users\\chino\\Desktop\\trabajo\\pro2\\labPro\\Testing\\Testing.csproj"
             }
           }
         }

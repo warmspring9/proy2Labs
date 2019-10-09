@@ -38,6 +38,9 @@ namespace Entities_POJO
         {
             Cedula = id;
         }
+        public Cliente()
+        {
+        }
         public int getAge()
         {
             //not implemented

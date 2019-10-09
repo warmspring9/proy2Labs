@@ -35,7 +35,7 @@ namespace api.Controllers
             try
             {
                 var mng = new CreditosManager();
-                var cliente = new Cliente(id);
+                var cliente = new Creditos(id);
 
                 cliente = mng.RetrieveById(cliente);
                 apiResp = new ApiResponse();
@@ -50,13 +50,13 @@ namespace api.Controllers
 
         // POST api/cliente
         // CREATE
-        public IHttpActionResult Post(Cliente cliente)
+        public IHttpActionResult Post(Creditos creditos)
         {
 
             try
             {
                 var mng = new CreditosManager();
-                mng.Create(cliente);
+                mng.Create(creditos);
 
                 apiResp = new ApiResponse();
                 apiResp.Message = "Action was executed.";
@@ -72,7 +72,7 @@ namespace api.Controllers
 
         // PUT
         // UPDATE
-        public IHttpActionResult Put(Cliente cliente)
+        public IHttpActionResult Put(Creditos cliente)
         {
             try
             {

@@ -49,5 +49,10 @@ namespace Entities_POJO
         {
             Nombre = nombre;
         }
+
+        public Cuentas()
+        {
+            //Nombre = nombre;
+        }
     }
 }

@@ -21,3 +21,26 @@ C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acces
 C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Testing\bin\Debug\System.Security.Permissions.xml
 C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Testing\bin\Debug\System.Security.Principal.Windows.xml
 C:\Users\chino\Desktop\trabajo\pro2\ejemploLab2\cenfo_proyecto_2_2019\Capa acceso datos\Testing\bin\Debug\System.Data.SqlClient.xml
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\Database1.mdf
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\Database1_log.ldf
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\Testing.dll
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\Testing.pdb
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\DataAcess.dll
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\Entities-POJO.dll
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\System.Data.SqlClient.dll
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\System.Security.AccessControl.dll
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\System.Security.Permissions.dll
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\DataAcess.pdb
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\DataAcess.dll.config
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\Entities-POJO.pdb
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\System.Data.SqlClient.xml
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\System.Security.AccessControl.xml
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\System.Security.Permissions.xml
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\obj\Debug\Testing.csproj.CopyComplete
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\obj\Debug\Testing.dll
+C:\Users\chino\Desktop\trabajo\pro2\labPro\Testing\obj\Debug\Testing.pdb

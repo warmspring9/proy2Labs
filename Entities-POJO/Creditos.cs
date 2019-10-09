@@ -106,6 +106,11 @@ namespace Entities_POJO
         {
             Nombre = nombre;
         }
+
+        public Creditos()
+        {
+           
+        }
     }
 
 }
